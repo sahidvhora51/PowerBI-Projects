@@ -130,9 +130,9 @@ I created this portfolio to showcase my end-to-end analytics capabilities and my
 ## 📫 Contact
 If you’d like to discuss analytics, BI, or data science opportunities, feel free to reach out:
 
-- **GitHub:** [your link]  
-- **LinkedIn:** [your link]  
-- **Email:** [your email]  
+- **GitHub: https://github.com/sahidvhora51 
+- **LinkedIn: https://www.linkedin.com/in/sahidvhora/ 
+- **Email: sahidvhora51@gmail.com
 
 ---
 
