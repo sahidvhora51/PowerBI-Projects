@@ -1,157 +1,141 @@
-# PowerBI-Projects
-# 📊 Project Title — Power BI Dashboard
+# 📊 Data Analytics & Power BI Portfolio
 
-## 🔍 Project Overview
-This project presents an end-to-end Power BI solution designed to analyze and visualize **[insert domain: Sales / HR / Finance / Supply Chain / Customer Churn / etc.]** data.  
-The objective of this dashboard is to provide actionable insights for decision-makers using a clean, interactive, business-focused Power BI interface.
+Welcome to my analytics portfolio!  
+This repository serves as a central directory for all the **Power BI projects** I have created, each stored in its own dedicated repository.  
+The projects included demonstrate my ability to work end-to-end across the complete data analytics lifecycle:  
+**data collection → cleaning → modeling → transformation → visualization → insight generation.**
 
-Although only the **PBIX dashboard file** is uploaded in this repository, the project was developed using a full analytics workflow including **Python-based data cleaning**, **SQL star schema modeling**, **Power Query ETL**, and **advanced DAX measures**.
-
----
-
-## 🎯 Objectives
-- Deliver key business KPIs such as **[add KPIs: Revenue, Profit, Churn %, Employee Attrition, Delivery SLA, etc.]**
-- Identify trends, patterns, and anomalies across **[time periods / regions / segments]**
-- Build a centralized interactive dashboard for leadership decision-making
-- Transform raw datasets into analytical insights using Power BI
+Although only the **Power BI dashboard files (PBIX)** are uploaded in each project repository, the backend work includes extensive **data engineering, feature creation, and analytics logic** using industry-standard tools.
 
 ---
 
-## 🧹 Data Preparation (Performed but not uploaded)
-While the PBIX file contains the final transformed model, the backend data preparation included:
+## 🚀 What I Do in Each Project
+Every project in this portfolio includes the following steps (performed by me before creating the dashboard):
 
-### ✔ Python (Pandas)
-- Cleaning messy and missing values  
-- Outlier detection & normalization  
-- Creating engineered features  
-- Exporting cleaned CSV’s for Power BI ingestion  
+### 🔧 **1. Data Preparation in Python**
+- Cleaning raw datasets (missing values, outliers, formatting issues)  
+- Feature engineering  
+- Aggregation and normalization  
+- Exporting clean datasets for modeling  
 
-### ✔ SQL (Star Schema Design)
-- Building **dimension tables** (Dim_Date, Dim_Product, Dim_Customer, etc.)  
-- Building **fact tables** (Fact_Sales, Fact_Transactions, Fact_Employees, etc.)  
-- Applying indexing, keys, and joins for efficient modeling  
-- Creating analytical SQL queries for exploration  
+### 🗄️ **2. Star Schema Design in SQL**
+- Creating fact and dimension tables  
+- Ensuring clean relationships  
+- Running SQL transformations and calculations  
+- Designing scalable data models for analytics  
 
-### ✔ Power Query (M Transformations)
-- Data type corrections  
-- Merging & appending tables  
-- Creating date tables  
-- Normalizing data structure to fit star schema  
-- Creating relationship-ready tables for the data model  
+### ⚙️ **3. Power Query Transformations**
+- Type corrections  
+- Merging & joining multiple datasets  
+- Data shaping for Power BI model  
+- Date table creation & normalization  
 
-### ✔ DAX Measures (Advanced)
-Examples include:  
-- YTD / MTD / QTD KPIs  
-- Rolling averages  
-- Churn & retention calculations  
-- Time intelligence functions  
-- KPI segmentation logic  
-- Dynamic titles and conditional formatting  
+### 📐 **4. DAX Calculations**
+- Building KPIs and metrics  
+- Time intelligence (YTD, YOY, moving averages, forecasting)  
+- Segmentation logic  
+- Custom business rules  
+- Calculated columns & measures  
 
-*(Note: Python scripts, SQL schema, and M scripts are **not included** in this repo. Only the PBIX file is uploaded.)*
+⚠️ *These backend files (Python, SQL, Power Query M scripts, and DAX files) are not uploaded publicly. Only the **PBIX dashboards** and documentation are included.*
 
 ---
 
-## 🗂️ Repository Contents
-| File | Description |
-|------|-------------|
-| **`Dashboard.pbix`** | Fully interactive Power BI dashboard file |
-| **`/screenshots/`** | Contains high-quality images of the main report pages |
-| **`README.md`** | Project documentation (this file) |
+## 📁 Projects Included  
+Each project has its own repository with a **Power BI dashboard** and complete summary:
+
+### **1. Supply Chain Optimization Dashboard**
+Repository: *[link to your repo]*  
+A dashboard designed to identify delivery bottlenecks, supplier issues, and inventory risks.
 
 ---
 
-## 📸 Key Dashboard Views
-Include 3–6 screenshots here:
-
-- **Overview Page**
-- **Performance Summary**
-- **Trend Analysis**
-- **Customer Segmentation / Attrition / KPI Drilldowns**
-- **Region / Category Insights**
-- **Forecasting / What-If Insights** (if applicable)
-
-> Add images inside `/screenshots/` folder and link them here:
-> `![Dashboard Screenshot](screenshots/overview.png)`
+### **2. Sales Dashboard (Version 1)**
+Repository: *[link]*  
+Provides high-level sales performance insights across regions, categories, and customers.
 
 ---
 
-## 🔑 Business Insights & Results
-Highlight the most important discoveries:
-
-- Example: *Identified 3 regions contributing to 62% of total churn.*
-- Example: *Improved delivery SLA visibility, highlighting top 5 bottleneck hubs.*
-- Example: *Revenue increased YOY by 14.3% with strong Q3 performance.*
-- Example: *Employee attrition analysis uncovered segments with higher risk.*
-- Example: *Customer lifetime value (LTV) varied significantly by subscription tier.*
-
-Summarize what your dashboard helps the business do **better**.
+### **3. Sales Dashboard (Advanced Version)**
+Repository: *[link]*  
+Focuses on profitability, customer lifetime value, pricing behavior, and performance segmentation.
 
 ---
 
-## 🧱 Data Model (Star Schema)
-Even if not uploaded, describe the structure:
-
-**Dimensions**
-- Dim_Date  
-- Dim_Customer  
-- Dim_Product  
-- Dim_Employee  
-- Dim_Region  
-
-**Facts**
-- Fact_Sales  
-- Fact_Transactions  
-- Fact_Churn  
-- Fact_Inventory  
-
-You can also add a screenshot of your Power BI model view.
+### **4. Retail Sales Performance Dashboard**
+Repository: *[link]*  
+Retail-focused dashboard analyzing discount impact, product performance, and store-level KPIs.
 
 ---
 
-## 🛠️ Tech Stack
-- **Power BI Desktop**
-- **Power Query (M)**
-- **DAX**
-- **Python (Pandas, NumPy)**
-- **SQL (Star Schema Design)**
-- **Excel / CSV**  
-- **GitHub for version control**
+### **5. HR Analytics Dashboard**
+Repository: *[link]*  
+Explores workforce trends including attrition, diversity, performance, and tenure patterns.
 
 ---
 
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository.  
-2. Open in **Power BI Desktop** (latest version recommended).  
-3. Explore the pages and interact with slicers to view insights.  
+### **6. Financial Insights Dashboard (Banking & Investment)**
+Repository: *[link]*  
+Investment-focused analytics covering AUM, revenue, portfolio allocation, and risk exposure.
 
 ---
 
-## 📣 Future Enhancements
-- Add RLS (Row Level Security) for role-based access  
-- Add AI visuals / ML forecast models  
-- Integrate with Power BI Service for scheduled refresh  
-- Improve anomaly detection using Python  
+### **7. Customer Churn Analysis Dashboard**
+Repository: *[link]*  
+Analyzes churn patterns, risk indicators, billing behavior, and segment-wise retention.
 
 ---
 
-## 👤 Author
-**SAHID VHORA**    
-- LinkedIn: *(https://www.linkedin.com/in/sahidvhora/)*  
-- Portfolio Website (if any)
+## 🎯 Skills Demonstrated
+This portfolio showcases my expertise in:
+
+### **Data Engineering**
+- Python (Pandas, NumPy)  
+- SQL (schema design, transformations, analytical queries)  
+- ETL using Power Query  
+
+### **Data Modeling**
+- Star schema architecture  
+- Fact/Dimension modeling  
+- Relationship management  
+
+### **Business Intelligence**
+- Power BI Desktop  
+- Advanced DAX  
+- KPI building  
+- Interactive report design  
+- Insight storytelling  
+
+### **Analytics & Insight Generation**
+- Trend analysis  
+- Segmentation  
+- Performance measurement  
+- Root-cause analysis  
+- Predictive indicators (churn, forecasting, risk scoring)
 
 ---
 
-# ✅ Ready to Copy & Use
-Just replace titles, objectives, screenshots, and findings.
+## 🏁 Purpose of This Portfolio
+This repository acts as a **central index** for all my Power BI projects.  
+Each linked project includes:
 
-If you'd like, I can **auto-generate all README files for each project you uploaded**, such as:
+- A full README with problem statement, objectives, insights, and dashboard overview  
+- A downloadable **PBIX file**  
+- Description of the data pipeline (Python, SQL, Power Query, DAX)
 
-✔ Supply Chain Optimization Dashboard  
-✔ Sales Dashboard  
-✔ Retail Sales Performance Dashboard  
-✔ HR Analytics Dashboard  
-✔ Financial Insights Dashboard  
-✔ Customer Churn Analysis Dashboard  
+I created this portfolio to showcase my end-to-end analytics capabilities and my ability to turn raw data into actionable insights using enterprise BI technologies.
 
-Just say: **“Generate README for all my projects”** and I’ll produce tailored versions for each one.
+---
+
+## 📫 Contact
+If you’d like to discuss analytics, BI, or data science opportunities, feel free to reach out:
+
+- **GitHub:** [your link]  
+- **LinkedIn:** [your link]  
+- **Email:** [your email]  
+
+---
+
+Thank you for exploring my work!  
+More projects will be added as I continue learning, building, and improving.
+
