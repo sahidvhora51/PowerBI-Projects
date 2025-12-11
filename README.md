@@ -137,7 +137,7 @@ You can also add a screenshot of your Power BI model view.
 
 ## 👤 Author
 **SAHID VHORA**    
-- LinkedIn: *www.linkedin.com/sahidvhora*  
+- LinkedIn: *(https://www.linkedin.com/in/sahidvhora/)*  
 - Portfolio Website (if any)
 
 ---
