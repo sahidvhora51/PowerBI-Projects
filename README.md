@@ -45,43 +45,43 @@ Every project in this portfolio includes the following steps (performed by me be
 Each project has its own repository with a **Power BI dashboard** and complete summary:
 
 ### **1. Supply Chain Optimization Dashboard**
-Repository: *[link to your repo]*  
+Repository: https://github.com/sahidvhora51/PowerBI-Projects.git  
 A dashboard designed to identify delivery bottlenecks, supplier issues, and inventory risks.
 
 ---
 
 ### **2. Sales Dashboard (Version 1)**
-Repository: *[link]*  
+Repository: https://github.com/sahidvhora51/PowerBI-Projects.git  
 Provides high-level sales performance insights across regions, categories, and customers.
 
 ---
 
 ### **3. Sales Dashboard (Advanced Version)**
-Repository: *[link]*  
+Repository: https://github.com/sahidvhora51/PowerBI-Projects.git
 Focuses on profitability, customer lifetime value, pricing behavior, and performance segmentation.
 
 ---
 
 ### **4. Retail Sales Performance Dashboard**
-Repository: *[link]*  
+Repository: https://github.com/sahidvhora51/PowerBI-Projects.git
 Retail-focused dashboard analyzing discount impact, product performance, and store-level KPIs.
 
 ---
 
 ### **5. HR Analytics Dashboard**
-Repository: *[link]*  
+Repository: https://github.com/sahidvhora51/PowerBI-Projects.git
 Explores workforce trends including attrition, diversity, performance, and tenure patterns.
 
 ---
 
 ### **6. Financial Insights Dashboard (Banking & Investment)**
-Repository: *[link]*  
+Repository: https://github.com/sahidvhora51/PowerBI-Projects.git
 Investment-focused analytics covering AUM, revenue, portfolio allocation, and risk exposure.
 
 ---
 
 ### **7. Customer Churn Analysis Dashboard**
-Repository: *[link]*  
+Repository: https://github.com/sahidvhora51/PowerBI-Projects.git
 Analyzes churn patterns, risk indicators, billing behavior, and segment-wise retention.
 
 ---
